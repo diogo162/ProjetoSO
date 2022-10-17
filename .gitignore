@@ -36,3 +36,11 @@ build/
 
 ### Mac OS ###
 .DS_Store
+.idea/workspace.xml
+.idea/misc.xml
+.idea/jpa-buddy.xml
+.idea/encodings.xml
+.idea/workspace.xml
+.idea/sonarlint/issuestore/index.pb
+.idea/misc.xml
+*.xml
