@@ -44,3 +44,5 @@ build/
 .idea/sonarlint/issuestore/index.pb
 .idea/misc.xml
 *.xml
+.idea/misc.xml
+.idea/workspace.xml
